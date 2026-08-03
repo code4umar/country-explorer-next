@@ -36,3 +36,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 ## Submission
 Week 5 — Next.js Country Explorer with App Router, server/client components, dynamic routes, loading and error boundaries.
+## Week 5 Submission
+Country Explorer rebuilt with Next.js App Router — server-fetched list page, dynamic /country/[code] detail route, loading/error boundaries, and full border-country navigation.
